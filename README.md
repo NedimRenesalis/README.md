@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-My name is Nedim and I a blockchain scientist.
+My name is Nedim and I am the inventor of the Hybrid Bonding Curves in DeFi.
 </p>
 
 <br>
